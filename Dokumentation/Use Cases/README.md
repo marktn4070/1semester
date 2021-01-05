@@ -2,7 +2,7 @@
 
 | Done? | UC ID  | Use Case                                            |
 |-------|--------|-----------------------------------------------------|
-| <ul><li>[x] item1</li><li>[ ] item2</li></ul>     | UC-1.1 | Display of relevant data                            |
+| <ul><li>[x]</li><li>[ ] item2</li></ul>     | UC-1.1 | Display of relevant data                            |
 | <li>- [x]</li>     | UC-1.2 | Upload of CSV files                                 |
 | <li>- [x]</li>     | UC-1.3 | Add/remove industries to lockdown/restrictions list |
 | <li>- [x]</li>     | UC-1.4 | Choose municipality                                 |

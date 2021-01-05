@@ -1,7 +1,7 @@
 # Daily Log - Gruppe Alpha
 
 | Dato       | Information om foretagende                                               |
-|------------|--------------------------------------------------------------------------|
+|:----------:|--------------------------------------------------------------------------|
 | 04/01/2021 | Som gruppe: domæne forståelse <br> Som gruppe: skrev kravspecifikation   |
 | 05/01/2021 | Som gruppe: lavede use cases til projektet                               |
 | 06/01/2021 |                                                                          |

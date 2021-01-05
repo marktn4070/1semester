@@ -15,6 +15,7 @@
 
 ## Display of relevant data  - UC-1.1
 <details>
+  <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.1<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
@@ -50,6 +51,7 @@
 
 ## Upload of CSV files - UC-1.2
 <details>
+    <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.2<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
@@ -90,6 +92,7 @@
 
 ## Add/Remove industries to lockdown/restrictions list - UC-1.3
 <details>
+    <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.3<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
@@ -137,6 +140,7 @@
 
 ## Choose municipality - UC-1.4
 <details>
+    <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.4<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
@@ -176,7 +180,8 @@
 
 ## Lockdown/restriction indicator - UC-1.5
 <details>
-<b>ID: </b> UC-1.4<br>
+    <summary>Press here to read more</summary>
+<b>ID: </b> UC-1.5<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
 <b>Description: </b> The program displays lockdown/restriction indicators based on incident numbers. <br>
@@ -210,5 +215,45 @@
 <h4>Postconditions</h4>
 
 1. The user can act on indicators on the given data.
+
+</details>
+
+## Display general restrictions - UC-1.6
+<details>
+    <summary>Press here to read more</summary>
+<b>ID: </b> UC-1.6<br>
+<b>Priority: </b> High <br>
+<b>Actors: </b>Municipality worker <br>
+<b>Description: </b> Shows general restrictions that can be put in use. <br>
+<b>Trigger:  </b> Show if there are negative tendencies in COVID-19 cases and restrictions are indicated.
+
+---
+
+<h4>Type: </h4>
+
+-  [x] External 
+-  [ ] Temporal 
+---
+<h4>Preconditions</h4>
+
+1. CSV is uploaded and up to date.
+2. There are negative tendencies and indicators based on the uploaded data.
+
+---
+<h4>Normal Course</h4>
+
+1. The user gets a list of general restrictions to use.
+
+---
+<h4>Alternative Courses</h4>
+
+1. User has not chosen CSVs.
+2. Failed to load data.
+
+
+---
+<h4>Postconditions</h4>
+
+1. The user can choose any of the recommended restrictions and act as they see fit  based on the data.
 
 </details>

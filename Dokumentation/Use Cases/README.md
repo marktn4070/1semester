@@ -9,6 +9,8 @@
 | [x]   | UC-1.5 | Lockdown/restriction indicator                      |
 | [x]   | UC-1.6 | Display general restrictions                        |
 
+
+
 # Use Cases
 
 ## Display of relevant data  - UC-1.1

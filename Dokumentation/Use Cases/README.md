@@ -3,11 +3,11 @@
 | Done? | UC ID  | Use Case                                            |
 |-------|--------|-----------------------------------------------------|
 | [x]   | [UC-1.1](#display-of-relevant-data----uc-11) | Display of relevant data                            |
-| [x]   | [UC-1.2]() | Upload of CSV files                                 |
-| [x]   | [UC-1.3]() | Add/remove industries to lockdown/restrictions list |
-| [x]   | [UC-1.4]() | Choose municipality                                 |
-| [x]   | [UC-1.5]() | Lockdown/restriction indicator                      |
-| [x]   | [UC-1.6]() | Display general restrictions                        |
+| [x]   | [UC-1.2](#upload-of-csv-files---uc-12) | Upload of CSV files                                 |
+| [x]   | [UC-1.3](#addremove-industries-to-lockdownrestrictions-list---uc-13) | Add/remove industries to lockdown/restrictions list |
+| [x]   | [UC-1.4](#choose-municipality---uc-14) | Choose municipality                                 |
+| [x]   | [UC-1.5](#lockdownrestriction-indicator---uc-15) | Lockdown/restriction indicator                      |
+| [x]   | [UC-1.6](#display-general-restrictions---uc-16) | Display general restrictions                        |
 
 <br><br>
 

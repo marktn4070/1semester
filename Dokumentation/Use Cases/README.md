@@ -14,8 +14,6 @@
 # Use Cases
 
 ## Display of relevant data  - UC-1.1
-<details>
-  <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.1<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
@@ -47,11 +45,9 @@
 
 1. Users can work with the data, see predictions and restrictions.
 
-</details>
+---
 
 ## Upload of CSV files - UC-1.2
-<details>
-    <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.2<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
@@ -88,11 +84,9 @@
 
 1. Files are successfully uploaded and the data can be used.
 
-</details>
+---
 
 ## Add/Remove industries to lockdown/restrictions list - UC-1.3
-<details>
-    <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.3<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
@@ -135,12 +129,10 @@
 1. The different industries have relevant lockdown/restriction status.
 2. Municipality workers can inform the industries of the latest status.
 
-</details>
+---
 
 
 ## Choose municipality - UC-1.4
-<details>
-    <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.4<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
@@ -176,11 +168,9 @@
 1. All data is centered around the chosen municipality.
 2. Municipality chosen
 
-</details>
+---
 
 ## Lockdown/restriction indicator - UC-1.5
-<details>
-    <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.5<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
@@ -216,11 +206,9 @@
 
 1. The user can act on indicators on the given data.
 
-</details>
+---
 
 ## Display general restrictions - UC-1.6
-<details>
-    <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.6<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
@@ -255,5 +243,3 @@
 <h4>Postconditions</h4>
 
 1. The user can choose any of the recommended restrictions and act as they see fit  based on the data.
-
-</details>

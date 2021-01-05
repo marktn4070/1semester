@@ -7,3 +7,4 @@
 | x     | UC-1.3 | Add/remove industries to lockdown/restrictions list |
 | x     | UC-1.4 | Choose municipality                                 |
 | x     | UC-1.5 | Lockdown/restriction indicator                      |
+| x     | UC-1.6 | Display general restrictions                        |

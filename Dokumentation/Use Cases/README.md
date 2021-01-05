@@ -11,7 +11,7 @@
 
 # Use Cases
 
-Display of relevant data  - UC-1.1
+##Display of relevant data  - UC-1.1
 <details>
 <b>ID: </b> UC-1.1<br>
 <b>Priority: </b> High <br>

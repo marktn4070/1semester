@@ -14,8 +14,8 @@
 # Use Cases
 
 ## Display of relevant data  - UC-1.1
-<details id="1">
-  <summary>Press here to read more</summary>
+<details>
+  <summary id="1">Press here to read more</summary>
 <b>ID: </b> UC-1.1<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>

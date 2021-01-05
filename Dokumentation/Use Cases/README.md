@@ -2,7 +2,7 @@
 
 | Done? | UC ID  | Use Case                                            |
 |-------|--------|-----------------------------------------------------|
-| [x]   | [UC-1.1](#1) | Display of relevant data                            |
+| [x]   | [UC-1.1](#display-of-relevant-data----uc-11) | Display of relevant data                            |
 | [x]   | [UC-1.2](#upload-of-csv-files---uc-12) | Upload of CSV files                                 |
 | [x]   | [UC-1.3](#addremove-industries-to-lockdownrestrictions-list---uc-13) | Add/remove industries to lockdown/restrictions list |
 | [x]   | [UC-1.4](#choose-municipality---uc-14) | Choose municipality                                 |
@@ -15,7 +15,7 @@
 
 ## Display of relevant data  - UC-1.1
 <details>
-  <summary id="1">Press here to read more</summary>
+  <summary>Press here to read more</summary>
 <b>ID: </b> UC-1.1<br>
 <b>Priority: </b> High <br>
 <b>Actors: </b>Municipality worker <br>
